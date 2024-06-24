@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/Spells/Pr_Fireball.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/Spells/Pr_Spell.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/Spells/Pr_Spell_Fireball.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/SN/A5PLSCASM7Z5GFT0T14UX6.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/Spells/Pr_Spell_Icecycle.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/Actions/IA_Dash.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/IMC_Default.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/MagicInterface.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/Actions/IA_Key_Q.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/Actions/IA_Key_E.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/Actions/IA_Key_F.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/Actions/IA_Key_R.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/Actions/IA_Number_Key.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Input/Actions/IA_CastSpell.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Maps/TopDownMap.umap",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/UI/WB_PlayerUI.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/CastSpell.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/TopDown/Blueprints/Spells/Pr_Spell_Darkball.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/K2/MECU206CMNTESA0FOZW07L.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/40/0KUJTKQSA0TRXSI7U4GYAT.uasset",
+				"D:/UnrealEngine/Projects/RuneCasters/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/RD/ENZKC26LS7D421XJAKQRL3.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_A.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_Key_W.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_Key_A.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_Move_WASD.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_UP_DOWN_Move_WS.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_VerticalMove_WS.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_HorisontalMove_AD.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/IMC_Default.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Blueprints/Spells/Pr_Fireball.uasset",
+				"D:/UnrealEngine/Projects/MyProject/Content/TopDown/Input/Actions/IA_CastSpell.uasset"
+			]
+		}
+	]
+}
